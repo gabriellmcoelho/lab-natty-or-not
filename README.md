@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto: Transformando Arte com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu projeto visa explorar o potencial da inteligência artificial na criação de imagens profissionais e esteticamente agradáveis. Utilizei modelos de IA generativa para gerar arte digital de alta qualidade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Cloude3:** Para gerar um prompt que o midjourney pudesse me dar o melhor resultado
+- **Midjourney:** Criar imagens geradas pelo Cloude3.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente, selecionei conceitos e temas que desejava explorar. Utilizei o Cloude3 para gerar prompts relevantes, os quais foram fornecidos ao Midjourney para a criação das imagens. Após a geração das imagens, refinei e ajustei cada uma no Adobe Photoshop, garantindo que o resultado final fosse verdadeiramente único e profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados do projeto foram surpreendentes. As imagens geradas pelo Midjourney a partir dos prompts fornecidos pelo Cloude3 foram de alta qualidade e esteticamente impressionantes. Cada imagem capturou os conceitos e temas selecionados, destacando-se pela sua originalidade e beleza visual.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+O desafio de criar algo 'natty' com IA foi emocionante e gratificante. A colaboração entre o Cloude3 e o Midjourney permitiu que eu explorasse novas possibilidades na criação de arte gerada por IA. Embora as ferramentas de IA tenham desempenhado um papel crucial na geração das imagens, a intervenção humana no refinamento e ajuste final foi essencial para garantir a qualidade e coesão do resultado final. Este projeto destacou a importância da colaboração entre humanos e IA na criação de conteúdo visual excepcional, mostrando como a combinação de criatividade humana e capacidades de IA pode resultar em obras de arte verdadeiramente únicas e inspiradoras.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+![_555cc237-9334-407c-b59c-0ef60b055e40](https://github.com/gabriellmcoelho/lab-natty-or-not/assets/58956689/fb04d536-2a53-47eb-b1a5-2afbead57d1b)
+![_eae198c4-4e8d-4785-8dbb-c872531c532d](https://github.com/gabriellmcoelho/lab-natty-or-not/assets/58956689/21b9e110-f12a-41a7-9cfc-7a44f16670d7)
+![_ae1e02d8-5159-495a-8a23-1ccb875f61f2](https://github.com/gabriellmcoelho/lab-natty-or-not/assets/58956689/ca9d5290-2fd5-459c-a9f7-0df68ab1c36c)
